@@ -13,12 +13,4 @@ Aspiring **Data Scientist** with a strong interest in **data analysis, machine l
 🔹 **Version Control:** Git, GitHub.
 🔹 **IDE:** VS Code  
 
-## 📌 Projects  
-🔹 **[Web Scraper with Proxy Rotatio](#)** - A smart web scraper that avoids detection using proxy rotation & user-agent spoofing.  
-🔹 
-
-## 📫 Connect with Me  
-📧 Email: ronakbhambu525@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/ronak-kumar-bhambu-563191252/
-🌐 Portfolio: [yourwebsite.com](#)  
 
