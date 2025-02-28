@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Ronakkumar324/Ronakkumar324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ronak!  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+Aspiring **Data Scientist** with a strong interest in **data analysis, machine learning, and web scraping**. I enjoy solving real-world problems through data-driven solutions and continuously enhancing my skills in AI and automation while also exploring **cloud computing and cybersecurity**. 
+- 🇩🇪 Learning **German**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+🔹 **Languages:** Python,SQL.  
+🔹 **Tools & Libraries:** BeautifulSoup, Scrapy, Selenium, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Postman.
+🔹 **Databases:** MySQL, , MongoDB.
+🔹 **Version Control:** Git, GitHub.
+🔹 **IDE:** VS Code  
+
+## 📌 Projects  
+🔹 **[Web Scraper with Proxy Rotatio](#)** - A smart web scraper that avoids detection using proxy rotation & user-agent spoofing.  
+🔹 
+
+## 📫 Connect with Me  
+📧 Email: ronakbhambu525@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/ronak-kumar-bhambu-563191252/
+🌐 Portfolio: [yourwebsite.com](#)  
+
