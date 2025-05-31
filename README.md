@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ronak!  
+# 👋 Hi, I'm Ronak Kumar Bhambu!  
 
 ## 🚀 About Me  
 **Aspiring Data Science Student**
